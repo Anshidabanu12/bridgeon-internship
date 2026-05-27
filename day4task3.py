@@ -1,0 +1,5 @@
+str =("python is high leval interpreted programming language")
+word=str.split()
+print(word)
+word.reverse()
+print(word) 
